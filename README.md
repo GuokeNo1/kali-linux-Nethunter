@@ -45,3 +45,8 @@
 > ## 不足之处
 
 目前发现无法将wlan0设置为监听模式所以望大家找到方法告诉我一下
+
+> ## 不要脸的二维码
+
+![支付宝](https://raw.githubusercontent.com/GuokeNo1/kali-linux-Nethunter/master/image/AliPay.jpg)|![微信](https://raw.githubusercontent.com/GuokeNo1/kali-linux-Nethunter/master/image/WeChatPay.png)
+----|----
